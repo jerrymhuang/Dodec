@@ -1,3 +1,3 @@
 # dodec
 
-Python toolkit for room impulse response measurements.
+Python toolkit for state-of-the-art room impulse response measurements.
