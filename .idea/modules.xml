@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/primekit.iml" filepath="$PROJECT_DIR$/.idea/primekit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dodec.iml" filepath="$PROJECT_DIR$/.idea/dodec.iml" />
     </modules>
   </component>
 </project>

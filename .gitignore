@@ -1,0 +1,34 @@
+__pycache__/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*/__pycache__/
+projects/
+docsrc/_build/
+build
+docs/
+
+
+# mypy
+.mypy_cache
+
+# pytest
+.coverage
+.pytest_cache
+
+# pycharm
+*.idea
+
+# vscode
+.vscode
+
+# vim
+*.swp
+
+# build
+*.egg-info
+
+# tox
+.tox
+
+# MacOS
+.DS_Store
